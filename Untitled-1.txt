@@ -1,0 +1,1 @@
+get git list - git config --list
