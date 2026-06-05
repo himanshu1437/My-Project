@@ -8,7 +8,6 @@
 
     <groupId>com.example</groupId>
     <artifactId>addressbook</artifactId>
-    <version></version>
     <packaging>war</packaging>
 
 </project>
